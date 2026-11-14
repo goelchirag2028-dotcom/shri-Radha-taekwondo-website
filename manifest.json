@@ -1,0 +1,13 @@
+{
+	"name": "Shri Radha Taekwondo",
+	"short_name": "Shri Radha Taekwondo",
+	"start_url": "./maim.html",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "./logo.png",
+			"sizes": "719x720",
+			"type": "image/png"
+		}
+	]
+}
